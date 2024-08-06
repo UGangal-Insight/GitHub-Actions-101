@@ -8,4 +8,3 @@ jobs:
         run: |
           echo "Hello World"
         shell: bash
-Click on Commit to save your changes.
